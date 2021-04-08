@@ -1,6 +1,6 @@
 // Add your code here
 
-const myName = 'Default';
+let myName = 'Default';
 myName = 'Chris';
 
-let myAge = '42';
+let myAge = 42;
